@@ -1,10 +1,9 @@
 # Blessin Varkey
 
 
-# Course: General Elective on Theatre
+**Course: General Elective on Theatre**
 
 **I. Introduction to the course**
-- 
 - Welcome and Overview
 - Theatre in Communication & Collaboration
  
