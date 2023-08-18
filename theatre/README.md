@@ -34,11 +34,12 @@ VI. Feedback and Discussions
 
 ## Additional Reading and Resources
 - "In other worlds" by Gayatri Chakravorty Spivak
-- Performance Theory by Richard Schechner
+- "Performance Theory" by Richard Schechner
+- "The Human Condition" by Hannah Arendt
 
 ## Evaluations 
 - Participants in performance sessions & workshops: 40%
 - AI X Theatre Play: 30%
 - Final reflection paper on personal learning and application: 30%
-- 
+  
 
