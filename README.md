@@ -1,9 +1,12 @@
 # Blessin Varkey
 
+IV. Using Theatre in Design Thinking
+V. Course wrap up and reflection
+VI. Feedback and Discussions
 
 **Course: General Elective on Theatre**
 
-**I. Introduction to the course**
+**I. Theatre & Performance**
 - Welcome and Overview
 - Theatre in Communication & Collaboration
  
