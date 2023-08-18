@@ -29,8 +29,13 @@
 - "Improvisation and the theatre" by Viola Spolin
 - "Theatre of the Oppressed" by Augusto Boal
 
+## Additional Reading and Resources
+- "In other worlds" by Gayatri Chakravorty Spivak
+- Performance Theory by Richard Schechner
+
 ## Evaluations 
 - Participants in performance sessions & workshops: 40%
 - AI X Theatre Play: 30%
 - Final reflection paper on personal learning and application: 30%
+- 
 
