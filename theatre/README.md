@@ -1,4 +1,4 @@
-# /Theatre
+# Theatre: Performance, AI & Design
 
 **Course: General Elective on Theatre**
 
@@ -16,9 +16,10 @@
 - Scripting a play using AI
 - Scripting & Directing performance using AI
 
-**IV. Theatre beyond the stage**
-- Theatre in effective Communication & Collaboration
-- Theatre for the self
+**IV. Theatre & Design Thinking**
+- Exploring Design Thinking
+- Using "Yes, And" in Design Thinking 
+  
 
 **V. Course wrap up and reflection**
 - Feedback and Discussions
