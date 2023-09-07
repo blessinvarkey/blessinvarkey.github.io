@@ -11,11 +11,13 @@
 - Word at a time (_Johnstone_)  
 - Shakespeare _Sonnets_
 - Three word sentences (_Johnstone_)
-- Freeze (Scene work)
+- Scene work
 
 TODO:
+- Reading: [(e-book) Impro by Keith Johnstone](http://coled.ucsd.edu/files/2016/03/Johnstone-Impro1-1.pdf)
 - _YouTube video_ to watch: [Don't do your best - Keith Johnstone](https://www.youtube.com/watch?v=bz9mo4qW9bc)
-- Watch your favorite impro games on _YouTube_
+- Watch your favorite impro games on _YouTube_. You can start [here](https://www.youtube.com/watch?v=IPfkJo3e7_M)
+  
 
   
   
