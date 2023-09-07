@@ -1,8 +1,6 @@
 [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) 
 
-## 5th September 2023
-
-### I. Theatre & Performance
+## #2. Theatre & Performance
 
 - "The story is the hero" - Focus on delivering a well-constructed story than on individual characters/looking better than the other
 - Exercises
