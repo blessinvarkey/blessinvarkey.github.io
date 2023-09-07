@@ -1,11 +1,11 @@
 # General Elective on Theatre (Performance, AI & Design) for NIFT Delhi 
 
-**Notes for students**
+
+### Lecture Notes
 - [Lecture 1 notes](https://blessinvarkey.github.io/theatre/lecture1)
 - [Lecture 2 notes](https://blessinvarkey.github.io/theatre/lecture2)
 
-**Course: General Elective on Theatre**
-
+### Modules
 **I. Theatre & Performance**
 - Welcome and Overview
 - Theatre in Communication & Collaboration
@@ -14,6 +14,7 @@
 - 'Games'in learning and theatre (_Spolin_)
 - Philosophy and techniques (_Spolin & Keith Johnstone_)
 - "Status" in interaction (_Keith Johnstone_)
+- Maestro Improv
 
 **III. AI & Theatre**
 - AI tools & role in narrative storytelling
@@ -21,14 +22,13 @@
 - Scripting & Directing performance using AI
 
 **IV. Theatre & Design Thinking**
-- Exploring Design Thinking
-- Using "Yes, And" in Design Thinking 
+- Introduction to Design Thinking
+- Theatre in Design Thinking 
   
-
 **V. Course wrap up and reflection**
 - Feedback and Discussions
 
-## Recommended Reading and Resources
+## Recommended Reading and Resources for the course
 - "Impro: Improvisation and the theatre" by Keith Johnstone
 - "Improvisation and the theatre" by Viola Spolin
 - "Theatre of the Oppressed" by Augusto Boal
@@ -39,8 +39,9 @@
 - "The Human Condition" by Hannah Arendt
 
 ## Evaluations 
-- Participants in performance sessions & workshops: 40%
-- AI X Theatre Play: 30%
+- Proactive participation in sessions: 30%
+- Maestro Show: 20%
+- AI X Theatre Play: 20%
 - Final reflection paper on personal learning and application: 30%
   
 
