@@ -1,7 +1,7 @@
 ## Theatre: Performance, AI & Design
-**GE: Theatre** 
+**GE:** Theatre 
 </br>
-**Location** 4th Floor, New Building, CAC Unit, NIFT Delhi 
+**Location** 4th Floor, New Building, CAC Unit, National Institute of Fashion Technology, Delhi 
 </br>
 **Course Format:** In-Person 
 </br>
