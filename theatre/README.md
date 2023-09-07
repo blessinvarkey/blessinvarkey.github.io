@@ -48,5 +48,5 @@ Lecture notes can be found here:
 - AI X Theatre Play: 20%
 - Final reflection paper on personal learning and application: 30%
   
-
-_Course delivered by Blessin Varkey. You can reach out to him at blessinvarkey [at] gmail [dot] com for any queries._
+## Faculty   
+_Course designed by Blessin Varkey. You can reach out to him at blessinvarkey [at] gmail [dot] com for any queries._
