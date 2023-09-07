@@ -1,3 +1,5 @@
+[Home](https://blessinvarkey.github.io/theatre/) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) 
+
 ## 5th September 2023
 
 ### I. Theatre & Performance
@@ -14,4 +16,3 @@
 - Freeze (Scene work)
   
   
-Back to [Home](https://blessinvarkey.github.io/theatre/) | Link to [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | Link to [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) 
