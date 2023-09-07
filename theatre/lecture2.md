@@ -12,5 +12,10 @@
 - Shakespeare _Sonnets_
 - Three word sentences (_Johnstone_)
 - Freeze (Scene work)
+
+TODO:
+- _YouTube video_ to watch: [Don't do your best - Keith Johnstone](https://www.youtube.com/watch?v=bz9mo4qW9bc)
+- Watch your favorite impro games on _YouTube_
+
   
   
