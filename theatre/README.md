@@ -1,9 +1,13 @@
-### General Elective on Theatre (Performance, AI & Design) for NIFT Delhi 
+## Theatre: Performance, AI & Design
+** GE: Theatre, 4th Floor, New Building, CAC Unit, NIFT Delhi** 
 
 
 ### Lecture Notes
-- [Lecture 1 notes](https://blessinvarkey.github.io/theatre/lecture1)
-- [Lecture 2 notes](https://blessinvarkey.github.io/theatre/lecture2)
+
+Lecture notes can be found here: 
+
+[Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) 
+
 
 ### Modules
 **I. Theatre & Performance**
