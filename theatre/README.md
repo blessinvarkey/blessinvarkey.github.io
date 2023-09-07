@@ -49,3 +49,4 @@ Lecture notes can be found here:
 - Final reflection paper on personal learning and application: 30%
   
 
+Course delivered by Blessin Varkey. You can reach out to him at blessinvarkey [at] gmail [dot] com for any queries.
