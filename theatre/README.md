@@ -1,4 +1,4 @@
-# General Elective on Theatre (Performance, AI & Design) for NIFT Delhi 
+### General Elective on Theatre (Performance, AI & Design) for NIFT Delhi 
 
 
 ### Lecture Notes
