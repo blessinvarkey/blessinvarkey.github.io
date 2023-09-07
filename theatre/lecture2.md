@@ -2,7 +2,8 @@
 
 ## #2. Theatre & Performance
 
-- "The story is the hero" - Focus on delivering a well-constructed story than on individual characters/looking better than the other
+>"The story is the hero" - Focus on delivering a well-constructed story than on individual characters/looking better than the other
+
 - Exercises
 - Go (with variation) - Protect your partner. Consent
 - One Voice (_Johnstone_):
