@@ -9,7 +9,7 @@
   - Keep looking at each other
   - Say the word or phrase in one voice  
 - Word at a time (_Johnstone_)  
-- Shakespeare _Sonnets_
+- Selected Shakespeare _Sonnets_ 
 - Three word sentences (_Johnstone_)
 - Mime, scene work
 
