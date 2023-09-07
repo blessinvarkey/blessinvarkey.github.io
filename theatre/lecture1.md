@@ -10,7 +10,8 @@
 - Impro at Stanford [Stanford School Course](https://summer.stanford.edu/courses/taps-103-introduction-improvisation)
 - Recommended Reading: [(e-book) Impro by Keith Johnstone](http://coled.ucsd.edu/files/2016/03/Johnstone-Impro1-1.pdf)
 - What are you doing? (Improv game)
-- Freeze + Scene work
+- Freeze
+- Introduction to scene work
 - Intro to _Status_
   
 
