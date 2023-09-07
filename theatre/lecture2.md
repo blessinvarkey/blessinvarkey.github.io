@@ -11,7 +11,7 @@
 - Word at a time (_Johnstone_)  
 - Shakespeare _Sonnets_
 - Three word sentences (_Johnstone_)
-- Scene work
+- Mime, scene work
 
 TODO:
 - Reading: [(e-book) Impro by Keith Johnstone](http://coled.ucsd.edu/files/2016/03/Johnstone-Impro1-1.pdf)
