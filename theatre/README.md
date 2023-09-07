@@ -1,8 +1,11 @@
 ## Theatre: Performance, AI & Design
-**GE: Theatre** </br>
-**Location** 4th Floor, New Building, CAC Unit, NIFT Delhi </br>
-**Course Format:** In-Person </br>
-**Duration:** 33 hours/ 11 weeks  </br>
+**GE: Theatre** 
+</br>
+**Location** 4th Floor, New Building, CAC Unit, NIFT Delhi 
+</br>
+**Course Format:** In-Person 
+</br>
+**Duration:** 33 hours/ 11 weeks  
 
 
 ## Lecture Notes
