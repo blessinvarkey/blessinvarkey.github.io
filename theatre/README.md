@@ -4,6 +4,7 @@
 **Course Format:** In-Person </br>
 **Duration:** 33 hours/ 11 weeks  </br>
 
+
 ## Lecture Notes
 
 Lecture notes can be found here: 
