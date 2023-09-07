@@ -2,34 +2,33 @@
 **GE: Theatre, 4th Floor, New Building, CAC Unit, NIFT Delhi** 
 
 
-### Lecture Notes
+## Lecture Notes
 
 Lecture notes can be found here: 
 
 [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) 
 
 
-### Modules
+## Modules
 **I. Theatre & Performance**
 - Welcome and Overview
 - Theatre in Communication & Collaboration
- 
-**II. The Impro System**
 - 'Games'in learning and theatre (_Spolin_)
 - Philosophy and techniques (_Spolin & Keith Johnstone_)
 - "Status" in interaction (_Keith Johnstone_)
 - Maestro Improv
 
-**III. AI & Theatre**
+
+**II. AI & Theatre**
 - AI tools & role in narrative storytelling
 - Scripting a play using AI
 - Scripting & Directing performance using AI
 
-**IV. Theatre & Design Thinking**
+**III. Theatre & Design Thinking**
 - Introduction to Design Thinking
 - Theatre in Design Thinking 
   
-**V. Course wrap up and reflection**
+**IV. Course wrap up and reflection**
 - Feedback and Discussions
 
 ## Recommended Reading and Resources for the course
