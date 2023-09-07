@@ -1,4 +1,4 @@
-[Home](https://blessinvarkey.github.io/theatre/) | [Lecture 2](https://blessinvarkey.github.io/theatre/class2) 
+[Home](https://blessinvarkey.github.io/theatre/) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) 
 
 ## 29th August 2023
 
