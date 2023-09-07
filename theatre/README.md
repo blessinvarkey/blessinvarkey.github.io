@@ -1,4 +1,8 @@
-# Theatre: Performance, AI & Design
+# General Elective on Theatre (Performance, AI & Design) for NIFT Delhi 
+
+**Notes for students**
+- [Lecture1 notes](https://blessinvarkey.github.io/theatre/class1)
+- [Lecture2 notes](https://blessinvarkey.github.io/theatre/class2)
 
 **Course: General Elective on Theatre**
 
