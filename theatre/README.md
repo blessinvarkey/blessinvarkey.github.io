@@ -1,5 +1,5 @@
 ## Theatre: Performance, AI & Design
-** GE: Theatre, 4th Floor, New Building, CAC Unit, NIFT Delhi** 
+**GE: Theatre, 4th Floor, New Building, CAC Unit, NIFT Delhi** 
 
 
 ### Lecture Notes
