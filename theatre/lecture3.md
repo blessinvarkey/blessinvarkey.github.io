@@ -1,12 +1,13 @@
 # Seven Aspects of Spontaneity
 
-1. Approval/ Disapproval
-2. Group Expression
-3. Audience 
-4. Theatre Techniques
-5. Carrying the Learning Process Into Daily Life
-6. Physicalization
-7. 
+1. Games
+2. Approval/ Disapproval
+3. Group Expression
+4. Audience 
+5. Theatre Techniques
+6. Carrying the Learning Process Into Daily Life
+7. Physicalization
+
 
 ## Improvisation TODOs: Compiled from Spolin's Improvisation for the Theatre
 1. Take your time.   
