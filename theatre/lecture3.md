@@ -21,7 +21,8 @@ The form works like a circle of two person scenes typically. Let's say you are g
 - Jed & Steve
 - Steve & Julie
 - Julie & Mike
-- Mike & Tara
+- Mike & Tara     
+  
 Each scene gets edited by one player replacing another. The person who remains on stage remains the character they were in the previous scene and the new player chooses a new character to play and a new location and situation for the scene. In a simple La Ronde like this, each player plays one character and only one character.
 
 Eventually, the cycle completes when an actor from one of the initial scenes returns, bringing the series of scenes full circle. [1](https://wiki.improvresourcecenter.com/index.php/La_Ronde)
