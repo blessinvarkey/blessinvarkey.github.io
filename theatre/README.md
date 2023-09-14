@@ -9,7 +9,7 @@
 
 Lecture notes can be found here: 
 
-[Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/comingsoon) 
+[Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) |[Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) | [Lecture 4](https://blessinvarkey.github.io/theatre/comingsoon) 
 
 
 ## Modules
