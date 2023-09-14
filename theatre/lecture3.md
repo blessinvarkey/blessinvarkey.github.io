@@ -3,16 +3,7 @@
 ## #3. Theatre & Performance
 > Techniques of theatre are the techniques of communicating - Viola Spolin
 
-#### Seven Aspects of Spontaneity
-1. Games
-2. Approval/ Disapproval
-3. Group Expression
-4. Audience 
-5. Theatre Techniques
-6. Carrying the Learning Process Into Daily Life
-7. Physicalization
-
-#### Who, What, Where
+### Who, What, Where
 - The characters involved (Who),
 - The action or what's happening (What), and
 - The location or setting (Where)
@@ -48,6 +39,21 @@ Be Aware of the Circle: Remember that the structure is circular. It can be compe
 - **Collaboration:** Like all improv, "La Ronde" is collaborative. Support your fellow performers, say "yes, and," and build on what's already been established.
 - **Endings and Beginnings:** Because one character from each scene carries over to the next, it's essential to think about both how you're ending your scene and setting up for the next one.
   
+### Scipted Play
+
+- **Objective and Motivation:** Understand your character's primary objective in the play. What do they want? Why do they want it? This motivation will drive all of your character's actions.
+Character Background: Even if it's not directly mentioned in the script, create a backstory for your character. This can inform your understanding of their motivations and reactions.
+- **Relationships:** Analyze the relationships your character has with others in the play. How do these relationships affect their actions and emotions?
+- **Script's Themes:** What are the overarching themes of the play? How does your character fit into or reflect these themes?
+- **Language:** Pay attention to the language used. Is it contemporary, archaic, or specific to a certain region? Understand the meaning behind words and phrases, especially if they're not in modern or familiar vernacular.
+- **Emotional Beats:** Break down scenes into emotional beats or shifts. Recognizing these changes will help in making your performance more dynamic.
+- **Physicality:** Consider how your character moves and occupies space. Are there clues in the script about their physical presence or demeanor?
+- **Reactions:** Remember that acting isn't just about your lines. How your character listens and reacts to others is crucial.
+- **Personal Connection:** Find personal connections or experiences that relate to your character's circumstances. This can help in bringing authenticity to your portrayal.
+- **Re-read:** The first read gives you a general understanding, but subsequent readings can reveal more depth and nuances.
+
+
+
 #### Performance notes: Compiled from Spolin's Improvisation for the Theatre
 1. Take your time.   
 2. Show, don't tell. Showing means direct contact and direct communication.       
