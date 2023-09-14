@@ -12,9 +12,9 @@ Establish these three elements ("Who, What, Where") at the beginning of a scene.
 
 
 ### La Ronde
--  "La Ronde" is a play written by Arthur Schnitzler in 1897, originally titled "Reigen" in German. Its structure has influenced various art forms, including improvisational theater. The play is a series of ten interconnected scenes, where characters engage in pairs. Each scene involves two characters, with one character from each scene moving on to the next scene, thus forming a "round" or "circle" by the end of the play. The play's name, "La Ronde," translates to "The Round Dance" in English.
+"La Ronde" is a play written by Arthur Schnitzler in 1897, originally titled "Reigen" in German. The play is a series of ten interconnected scenes, where characters engage in pairs. Each scene involves two characters, with one character from each scene moving on to the next scene, thus forming a "round" or "circle" by the end of the play. The play's name, "La Ronde," translates to "The Round Dance" in English.
 
-For the course, "La Ronde" is used a format where scenes are interlinked in a similar manner. Here's how it can work in an improv setting:
+For the course, "La Ronde" will be used as a format where scenes are interlinked in a similar manner. Here's how it can work in an improv setting:
 
 The form works like a circle of two person scenes typically. Let's say you are going to have five players to a La Ronde, Mike, Tara, Julie, Steve and Jed. And let's also say that Tara and Jed start the first scene. The scenes would look like this:
 - Tara & Jed
