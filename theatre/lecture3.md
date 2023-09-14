@@ -27,7 +27,7 @@ Each scene gets edited by one player replacing another. The person who remains o
 
 Eventually, the cycle completes when an actor from one of the initial scenes returns, bringing the series of scenes full circle.[ [1](https://wiki.improvresourcecenter.com/index.php/La_Ronde)]
 
-**Things to Remember while performing La Ronde**
+**Things to Remember for actors performing La Ronde**
 - **Character Consistency:** Since one character continues from one scene to the next, it's essential to maintain consistency in character traits, backstory, and motivations. This helps in creating a coherent narrative.
 - **Relationships are the Key:** "La Ronde" is all about the interplay between characters. Focus on the relationship between the characters in each scene, and consider how relationships might evolve or change from one scene to the next.
 - **Listen Actively:** This is fundamental in all improv but especially crucial in "La Ronde." You need to absorb information not just for your scene, but to ensure that the chain of scenes makes sense as they progress.
@@ -40,7 +40,7 @@ Be Aware of the Circle: Remember that the structure is circular. It can be compe
 - **Collaboration:** Like all improv, "La Ronde" is collaborative. Support your fellow performers, say "yes, and," and build on what's already been established.
 - **Endings and Beginnings:** Because one character from each scene carries over to the next, it's essential to think about both how you're ending your scene and setting up for the next one.
   
-### Scipted Play
+**Things to Remember for actors performing the scipted play**
 
 - **Objective and Motivation:** Understand your character's primary objective in the play. What do they want? Why do they want it? This motivation will drive all of your character's actions.
 Character Background: Even if it's not directly mentioned in the script, create a backstory for your character. This can inform your understanding of their motivations and reactions.
@@ -55,7 +55,7 @@ Character Background: Even if it's not directly mentioned in the script, create 
 
 
 
-#### Performance notes: Compiled from Spolin's Improvisation for the Theatre
+#### Performance notes on improvisation: Compiled from Spolin's Improvisation for the Theatre
 1. Take your time.   
 2. Show, don't tell. Showing means direct contact and direct communication.       
 3. Many exercises have a subtle variation.        
@@ -74,4 +74,4 @@ Character Background: Even if it's not directly mentioned in the script, create 
 ### TODO:
 - Prepare the shortlisted play
 - Prepare your sonnet
-- 
+- Watch a play [this week](https://in.bookmyshow.com/explore/plays-national-capital-region-ncr)!
