@@ -3,8 +3,8 @@
 # #4. Performance & AI
 
 ## Generative AI
-- http://chat.openai.com
-- https://openai.com/dall-e-2
+- [http://chat.openai.com](http://chat.openai.com)
+- [https://openai.com/dall-e-2](https://openai.com/dall-e-2)
 
 ## Character Analysis
 
