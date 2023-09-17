@@ -16,12 +16,12 @@ Establish these three elements ("Who, What, Where") at the beginning of a scene.
 
 For the course, "La Ronde" will be used as a format where scenes are interlinked in a similar manner. Here's how it can work in an improv setting:
 
-The form works like a circle of two person scenes typically. Let's say you are going to have five players to a La Ronde, Mike, Tara, Julie, Steve and Jed. And let's also say that Tara and Jed start the first scene. The scenes would look like this:
-- Tara & Jed
-- Jed & Steve
-- Steve & Julie
-- Julie & Mike
-- Mike & Tara     
+The form works like a circle of two person scenes typically. With 5 characters Sanjay, Anjali, Sanjana, Kritika, Anna, the structure would look like this:      
+- Sanjay & Anjali
+- Anjali & Sanjana
+- Sanjana & Kritika
+- Kritika & Anna
+- Anna & Sanjay     
   
 Each scene gets edited by one player replacing another. The person who remains on stage remains the character they were in the previous scene and the new player chooses a new character to play and a new location and situation for the scene. In a simple La Ronde like this, each player plays one character and only one character.
 
