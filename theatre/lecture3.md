@@ -73,4 +73,7 @@ Character Background: Even if it's not directly mentioned in the script, create 
 ### TODO:
 - Prepare the shortlisted play
 - Prepare your sonnet
-- Watch a play [this week](https://in.bookmyshow.com/explore/plays-national-capital-region-ncr)!
+
+### Recommended Plays:
+Check out Extant next week at [BlackBoxOkhla](https://www.instagram.com/p/CxLCAiBy_3p/): Extant is a 40-minute immersion into a tapestry of kaleidoscopic elements that embrace the spirit of queer life force. Much like at a Queer Ball, an eclectic array of performance acts converge in this Happening to create a dynamic mosaic of many shades of queerness. September 21, 22, 23 and 24, 2023 at 8pm
+
