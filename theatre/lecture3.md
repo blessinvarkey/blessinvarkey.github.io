@@ -25,14 +25,13 @@ The form works like a circle of two person scenes typically. Let's say you are g
   
 Each scene gets edited by one player replacing another. The person who remains on stage remains the character they were in the previous scene and the new player chooses a new character to play and a new location and situation for the scene. In a simple La Ronde like this, each player plays one character and only one character.
 
-Eventually, the cycle completes when an actor from one of the initial scenes returns, bringing the series of scenes full circle.[ [1](https://wiki.improvresourcecenter.com/index.php/La_Ronde)]
+Eventually, the cycle completes when an actor from one of the initial scenes returns, bringing the series of scenes full circle.[[1](https://wiki.improvresourcecenter.com/index.php/La_Ronde)]
 
 ### Things to Remember for actors performing La Ronde
 - **Character Consistency:** Since one character continues from one scene to the next, it's essential to maintain consistency in character traits, backstory, and motivations. This helps in creating a coherent narrative.
 - **Relationships are the Key:** "La Ronde" is all about the interplay between characters. Focus on the relationship between the characters in each scene, and consider how relationships might evolve or change from one scene to the next.
 - **Listen Actively:** This is fundamental in all improv but especially crucial in "La Ronde." You need to absorb information not just for your scene, but to ensure that the chain of scenes makes sense as they progress.
 - **Transitions Matter:** The transition from one scene to another can be a powerful moment. Use it to either tie up loose ends from the previous scene or set the stage for the next one.
-Be Aware of the Circle: Remember that the structure is circular. It can be compelling to find a way to connect the last scene back to the first, giving a sense of closure to the performance.
 - **Vary Dynamics:** To keep things interesting, it's good to vary the tone, energy, and dynamics of the scenes. If one scene is highly intense, maybe the next one could be lighter or more comedic.
 - **Be Mindful of Timing:** As scenes are interconnected, you can't get stuck too long in one scene. Ensure each scene is concise, and the story moves at a good pace.
 - **Remember Previous Scenes:** Even if you weren't in a scene, remember what happened. This can be a source of inspiration for future scenes, helping to maintain continuity and callbacks.
