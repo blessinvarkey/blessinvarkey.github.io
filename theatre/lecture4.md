@@ -14,8 +14,7 @@
 |Backstory and Motivations| Write a brief backstory for your character. What events in their past shaped them? What are your character's core motivations? What drives them? What was your character's family dynamic like growing up? Were there any traumatic or pivotal events during their childhood? How do they shape your character today?|
 | Relationships | List other characters your character interacts with. Describe the nature of each relationship. Has your character ever been betrayed? How did they react?|
 | Emotional Landscape| What are your character's dominant emotions? Are there emotions they suppress or hide? Describe a moment when your character felt truly vulnerable. How did they cope?|
-| Beliefs and Morals |
-| What core beliefs guide your character's actions? Are there moral lines your character refuses to cross? What would push them to reconsider?|
+| Beliefs and Morals | What core beliefs guide your character's actions? Are there moral lines your character refuses to cross? What would push them to reconsider?|
 | Challenges and Growth | Describe a challenge your character faces in the story. How do they overcome it (or not)? How does your character evolve throughout the plot?|
 | Habits and Quirks | Does your character have any unique habits or quirks? How did they develop? How do these habits affect others' perceptions of your character?|
 | Wants and Needs | What does your character want most? Is it different from what they need? How does the disparity between wants and needs create conflict for your character?|
