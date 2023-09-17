@@ -75,5 +75,5 @@ Character Background: Even if it's not directly mentioned in the script, create 
 - Prepare your sonnet
 
 ### Recommended Plays:
-Check out Extant next week at [BlackBoxOkhla](https://www.instagram.com/p/CxLCAiBy_3p/): Extant is a 40-minute immersion into a tapestry of kaleidoscopic elements that embrace the spirit of queer life force. Much like at a Queer Ball, an eclectic array of performance acts converge in this Happening to create a dynamic mosaic of many shades of queerness. September 21, 22, 23 and 24, 2023 at 8pm
+Check out [Extant next week at BlackBoxOkhla](https://www.instagram.com/p/CxLCAiBy_3p/): "Extant is a 40-minute immersion into a tapestry of kaleidoscopic elements that embrace the spirit of queer life force. Much like at a Queer Ball, an eclectic array of performance acts converge in this Happening to create a dynamic mosaic of many shades of queerness. September 21, 22, 23 and 24, 2023 at 8pm."[[2](https://www.instagram.com/p/CxLCAiBy_3p/)]
 
