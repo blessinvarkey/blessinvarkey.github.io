@@ -21,17 +21,17 @@ Lecture notes can be found here:
 - "Status" in interaction (_Keith Johnstone_)
 - Maestro Improv
 
-
-**II. AI & Theatre**
+**II. Performance & AI**
 - AI tools & role in narrative storytelling
 - Scripting a play using AI
-- Scripting & Directing performance using AI
+- Scripting and directing performance using AI
+- Assignment I
 
 **III. Theatre & Design Thinking**
 - Introduction to Design Thinking
 - Theatre in Design Thinking 
   
-**IV. Course wrap up and reflection**
+**Course wrap-up and reflection**
 - Feedback and Discussions
 
 ## Recommended Reading and Resources for the course
