@@ -1,6 +1,7 @@
 | [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) | [Lecture 5](https://blessinvarkey.github.io/theatre/comingsoon) |
 
 # #4. Performance & AI
+Part of GE: Theatre (Performance, AI & Design)
 
 # Image Theatre 
 Image Theatre is one of the many techniques developed by Augusto Boal as part of his Theatre of the Oppressed (TO) methodology. Image Theatre is a non-verbal approach that uses human bodies to create static images to express ideas, feelings, and situations. 
