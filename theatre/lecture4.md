@@ -5,7 +5,7 @@
 ## Generative AI
 
 LLMs, or Large Language Models are artificial intelligence programs designed to understand and generate text based on human language. The ones we will use for the course are ChatGPT & Bard. Try them out. 
-- [https://openai.com/dall-e-2](https://openai.com/dall-e-2)
+- [http://chat.openai.com(http://chat.openai.com)]
 - [http://bard.google.com](http://bard.google.com)
 
 ## Character Analysis
