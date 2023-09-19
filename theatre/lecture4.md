@@ -3,14 +3,16 @@
 # #4. Performance & AI
 
 ## Generative AI
-- [http://chat.openai.com](http://chat.openai.com)
+
+LLMs, or Large Language Models are artificial intelligence programs designed to understand and generate text based on human language. The ones we will use for the course are ChatGPT & Bard. Try them out. 
 - [https://openai.com/dall-e-2](https://openai.com/dall-e-2)
+- [http://bard.google.com](http://bard.google.com)
 
 ## Character Analysis
 
 |Aspect | Questions | 
 |--|--|
-|Physicality |Describe your character's physical appearance. How do they move? Is there a particular posture or gesture they often exhibit? How does your character's physicality affect their interactions with others? Are their movements confident, hesitant, graceful, awkward? Are there any physical ailments or conditions that affect your character's movement or posture? Describe a day in the life of your character, focusing on their physical interactions with the world.|
+|Physicality |Describe your character's physical appearance. How do they move? Is there a particular posture or gesture they often exhibit? How does your character's physicality affect their interactions with others? Are their movements confident, hesitant, graceful, or awkward? Are there any physical ailments or conditions that affect your character's movement or posture? Describe a day in the life of your character, focusing on their physical interactions with the world.|
 |Backstory and Motivations| Write a brief backstory for your character. What events in their past shaped them? What are your character's core motivations? What drives them? What was your character's family dynamic like growing up? Were there any traumatic or pivotal events during their childhood? How do they shape your character today?|
 | Relationships | List other characters your character interacts with. Describe the nature of each relationship. Has your character ever been betrayed? How did they react?|
 | Emotional Landscape| What are your character's dominant emotions? Are there emotions they suppress or hide? Describe a moment when your character felt truly vulnerable. How did they cope?|
@@ -22,6 +24,7 @@
 
 
 ## Prompt Tips
+Use the write-up you created, modify one of the prompts below:   
 - "Write a scene for a modern-day play set in a coffee shop where two old friends unexpectedly meet."
 - "Write a comedic dialogue..." or "Craft a suspenseful monologue about..."
 - Instead of asking everything in one go, break your prompt into smaller parts. For example, you could first ask for a character description, then for a setting, and finally for a scene involving that character in that setting.
@@ -32,7 +35,11 @@
 - "That's a good start. Can you develop it further with more emotion?"
 - "How would you approach writing a scene about X, and what are the key elements you'd consider?"
 
-## Assignment 1 (30 Marks): Create a theatrical performance using LLM's capabilities. Integrate AI outputs with human creativity. This assignment is to be completed by the end of the 4th week.
+## Assignment 1 (30 Marks): Create a one-act play/ novella using one of the LLMs. Integrate your character's analysis with the list of LLMs provided. This assignment is to be completed by the end of the 4th week/before next class.
+- Create a character analysis of a character based on the questions above.
+- Set the script in an Indian context.
+- Modify the generated script, and add your inputs. (you could translate it to Hindi, change dialogues)
+- Share a PDF file which should have the script generated, what you contributed (including your original character analysis, and modifications you made)
 
 
 
