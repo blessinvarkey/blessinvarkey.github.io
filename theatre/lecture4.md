@@ -35,7 +35,8 @@ Use the write-up you created, modify one of the prompts below:
 - "That's a good start. Can you develop it further with more emotion?"
 - "How would you approach writing a scene about X, and what are the key elements you'd consider?"
 
-## Assignment 1 (30 Marks): Create a one-act play/ novella using one of the LLMs. Integrate your character's analysis with the list of LLMs provided. This assignment is to be completed by the end of the 4th week/before next class.
+## Assignment 1 (30 Marks): Create a one-act play/ novella using one of the LLMs. 
+- Integrate your character's analysis with the list of LLMs provided. This assignment has to be completed by the end of the 4th week/before the next class.
 - Create a character analysis of a character based on the questions above.
 - Set the script in an Indian context.
 - Modify the generated script, and add your inputs. (you could translate it to Hindi, change dialogues)
