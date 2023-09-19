@@ -1,6 +1,7 @@
 [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) 
 
 ## #1. Theatre & Performance
+**Part of GE: Theatre (Performance, AI & Design)**
 
 - 'Yes, And' Mindset: Impro is about accepting an idea and expanding on it. Go through this [Forbes article on the Yes, And Mindset](https://www.forbes.com/sites/forbesbusinesscouncil/2021/12/20/the-power-of-a-yes-and-mindset-to-solve-complex-problems/?sh=7696d9b713b2)
 - We are taught how to read, but not how to listen.
