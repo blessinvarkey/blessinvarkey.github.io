@@ -2,6 +2,11 @@
 
 # #4. Performance & AI
 
+# Image Theatre 
+Image Theatre is one of the many techniques developed by Augusto Boal as part of his Theatre of the Oppressed (TO) methodology. Image Theatre is a non-verbal approach that uses human bodies to create static images to express ideas, feelings, and situations. 
+
+PS: We explored emotions today! 
+
 ## Generative AI
 
 LLMs, or Large Language Models are artificial intelligence programs designed to understand and generate text based on human language. The ones we will use for the course are ChatGPT & Bard. Try them out. 
