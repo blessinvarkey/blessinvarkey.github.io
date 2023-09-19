@@ -1,7 +1,7 @@
 [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) 
 
 ## #2. Theatre & Performance
-
+**Part of GE: Theatre (Performance, AI & Design)**
 >"The story is the hero" - Focus on delivering a well-constructed story than on individual characters/looking better than the other
 
 - Exercises
