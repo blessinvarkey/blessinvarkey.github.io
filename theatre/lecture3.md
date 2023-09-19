@@ -1,4 +1,4 @@
-[Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 4](https://blessinvarkey.github.io/theatre/comingsoon) 
+[Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 4](https://blessinvarkey.github.io/theatre/lecture4) 
 
 ## #3. Theatre & Performance
 > Techniques of theatre are the techniques of communicating - Viola Spolin
