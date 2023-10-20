@@ -7,13 +7,12 @@
 - Exercises
 - Go (with variation) - Protect your partner. Consent
 - One Voice (_Johnstone_):
-  - Keep looking at each other
-  - Say the word or phrase in one voice  
 - Word at a time (_Johnstone_)  
 - Selected Shakespeare _Sonnets_ 
 - Three word sentences (_Johnstone_)
 - Mime, scene work
 
+### How to play
 **One Voice**
 - The goal of the "One Voice" improv game is to create a scene where all participants speak in perfect unison, as if they have a single voice, while building a coherent and interesting narrative.
 - Setup: Group of participants and form a circle or arrange them in a way that everyone can see and hear each other clearly.
