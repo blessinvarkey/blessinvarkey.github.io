@@ -3,7 +3,15 @@
 ## #8. Performance & AI
 **Part of GE: Theatre (Performance, AI & Design)**
 
-**Revise [lecture seven](https://blessinvarkey.github.io/theatre/lecture7)!**
+## Freeze Tag
+- The goal of Freeze Tag is to create short, improvised scenes using physical actions and frozen poses.
+- The host selects two players to start the game. These two players step into the center of the playing area.
+- The two starting players begin to improvise a scene. This can be any scene or situation, but it often starts with a physical action or pose. For example, one player might begin by pretending to water plants in a garden.
+- **Freeze:** At any point during the scene, the referee can call out "Freeze!" When this happens, the two players must immediately freeze in whatever physical positions they are in, holding their poses.
+- **New Players:** The referee then selects two other players from the group to replace the frozen players. The new players can choose to either replicate the frozen pose or start an entirely new scene based on the positions of the frozen players. For example, if the frozen players were in a gardening pose, the new players might continue the scene by pretending to be garden gnomes.
+- **Scene Continues:** The new players then continue the scene, building upon what was established or starting something entirely new. They can use the frozen positions as inspiration or take the scene in a different direction.
+- **Repeat:** The game continues with the referee calling "Freeze!" at various points and replacing the players. The goal is to create a series of short, humorous, or interesting scenes based on the frozen positions.
+- **Variations:** Introduce variations to the game by adding specific themes, constraints, or challenges for the scenes. For example, you might ask players to perform scenes in slow motion or use specific accents.
 
 ## Status 
 **High Status and Low Status:** 
