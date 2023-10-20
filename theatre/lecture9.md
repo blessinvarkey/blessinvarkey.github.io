@@ -85,6 +85,9 @@ How to play: To be addressed in the next class
 ## Monologue (Optional - 3 minutes)
 - "To be, or not to be" soliloquy [Anyone interested in attempting a monologue, please let me know]
 
+## Freeze tag (Optional - **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!**)
+## What are you doing (Optional - **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!**)
+
 # Assignment 2
 - Assignment 2 marking for the Check Please! performers will be submitting the modified script.
 - For the rest of you, assignment is to create a backdrop generated using dalle, midjourney (or any other AI tool) of various locations. The location could be a park, a restaraunt wallpaper, a movie theatre, a bus stand etc. Before submitting, discuss in the next class. 
