@@ -50,6 +50,6 @@ Actors for this game:
 How to play: Refer to **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!** for details
 - Harshit & Liza
 
-# Monologue (Optional - 3 minutes)
+## Monologue (Optional - 3 minutes)
 - "To be, or not to be" soliloquy [Anyone interested in attempting a monologue, please let me know]
 
