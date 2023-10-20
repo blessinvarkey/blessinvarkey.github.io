@@ -3,10 +3,11 @@
 ## #9. Performance & AI
 **Part of GE: Theatre (Performance, AI & Design)**
 
-## Haan, aur
+## Haan, aur (3 minutes)
+How to play: Refer to **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!** for details
 - Sumbul, Tamanna, Suraj, Riya, Renee
 
-## Play (Scripted)
+## Scripted Play (25 mintues)
 - Scene 1: Aanchal, Amol (Modified script)
 - Scene 2: Palak, Anuj (Modified script)
 - Scene 3: Renee, Aviral (Modified script)
@@ -20,19 +21,24 @@
 - Scene 11: Bhavishya & Paarth (Modified script)
 - Scene 12: Aishwarya & (Modified script)
 
-## Status
+## Status (3 minutes)
+How to play: Refer to **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!** for details
 - Shivali & Jhalak
 
-## One word at a time
+## One word at a time (3 minutes)
+How to play: Refer to **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!** for details
 - Shadia & Amol
 
-## One Voice
+## One Voice (3 minutes)
+How to play: Refer to **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!** for details
 - Arrish, Aviral, Deepak | Anahita, Khushi, Ruhani | Gulshan, Raunak, Krishna
 
-## Up in the air
+## Up in the air (3 minutes)
+How to play: To be addressed in the next class
 - Kunal & Liza
 
-## La Ronde
+## La Ronde (15 minutes)
+How to play: Refer to **[lecture three](https://blessinvarkey.github.io/theatre/lecture3)!** for details
 Actors for this game:
 - Rohit & Pranjal
 - Pranjal & Kashvi
@@ -40,9 +46,10 @@ Actors for this game:
 - Krishna & Suhani
 - Suhani & Rohit
 
-## Vampire game
+## Vampire game (3 minutes)
+How to play: Refer to **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!** for details
 - Harshit & Liza
 
-# Monologue (Optional)
-- To be or not to be [Anyone interested in attempting a monologue, please let me know]
+# Monologue (Optional - 3 minutes)
+- "To be, or not to be" soliloquy [Anyone interested in attempting a monologue, please let me know]
 
