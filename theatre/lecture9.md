@@ -6,7 +6,7 @@
 - Refer to **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!** for details
 - Stay present, listen actively to your partner.
 - Respond positively and add new information to the scene.
-- Avoid blocking or negating your partner's offers.
+- Avoid blocking or negating your partner's offers.   
 **Actors:** Sumbul, Tamanna, Suraj, Riya, Renee
 
 ## Scripted Play (25 mintues)
