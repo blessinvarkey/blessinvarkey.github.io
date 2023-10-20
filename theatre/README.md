@@ -8,47 +8,41 @@
 ## Lecture Notes
 
 Lecture notes can be found here: 
-
 [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) | [Lecture 5](https://blessinvarkey.github.io/theatre/lecture5) | [Lecture 6](https://blessinvarkey.github.io/theatre/lecture6) | [Lecture 7](https://blessinvarkey.github.io/theatre/lecture7) | [Lecture 8](https://blessinvarkey.github.io/theatre/lecture8) |  [Lecture 8](https://blessinvarkey.github.io/theatre/lecture8) | [Lecture 9](https://blessinvarkey.github.io/theatre/lecture9) 
 
 
 ## Modules
 **I. Theatre & Performance**
 - Welcome and Overview
-- Theatre in Communication & Collaboration
-- 'Games'in learning and theatre (_Spolin_)
-- Philosophy and techniques (_Spolin & Keith Johnstone_)
-- "Status" in interaction (_Keith Johnstone_)
-- Maestro Improv
+- ‘Games’ in learning and theatre (Spolin)
+- Philosophy and techniques (Spolin & Keith Johnstone)
+- “Status” in interaction (Keith Johnstone)
+- Maestro Improv exercises
 
 **II. Performance & AI**
-- AI tools & role in narrative storytelling
+- AI tools & exploration in scriptwriting
 - Scripting a play using AI
-- Scripting and directing performance using AI
-- Assignment I
 
-**III. Theatre & Design Thinking**
-- Introduction to Design Thinking
-- Theatre in Design Thinking 
-  
-**Course wrap-up and reflection**
-- Feedback and Discussions
+**III. Play & Maestro Impro**
+- Scripted play : character exploration, performance skills
+- Maestro Impro: space - object, status, performance skills
+- Course wrap-up and reflection
 
-## Recommended Reading and Resources for the course
-- "Impro: Improvisation and the theatre" by Keith Johnstone
-- "Improvisation and the theatre" by Viola Spolin
-- "Theatre of the Oppressed" by Augusto Boal
+**Feedback and Discussions**
 
-## Additional Reading and Resources
-- "In other worlds" by Gayatri Chakravorty Spivak
-- "Performance Theory" by Richard Schechner
-- "The Human Condition" by Hannah Arendt
+**Recommended Reading and Resources for the course**
+- “Impro: Improvisation and the theatre” by Keith Johnstone
+- “Improvisation and the theatre” by Viola Spolin
+- “Theatre of the Oppressed” by Augusto Boal
 
-## Evaluations 
-- Proactive participation in sessions: 30%
-- Maestro Show: 20%
-- AI X Theatre Play: 20%
-- Final reflection paper on personal learning and application: 30%
-  
+**Additional Reading and Resources**
+- “In other worlds” by Gayatri Chakravorty Spivak
+- “Performance Theory” by Richard Schechner
+- “The Human Condition” by Hannah Arendt
+
+**Evaluations**
+Assignment 1: 30% (proactive participation in sessions constitutes 10%)
+Assignment 2: 30% (proactive participation in sessions constitutes 15%)
+Maestro Impro Show + Play: 40%
 ## Faculty details   
 _The course designed by Blessin Varkey. You can reach out to him at blessinvarkey [at] gmail [dot] com for any queries._
