@@ -1,4 +1,4 @@
-| [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) | [Lecture 5](https://blessinvarkey.github.io/theatre/comingsoon) |
+| [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) | [Lecture 5](https://blessinvarkey.github.io/theatre/lecture5) |[Lecture 6](https://blessinvarkey.github.io/theatre/lecture6) | [Lecture 7](https://blessinvarkey.github.io/theatre/lecture7) | [Lecture 8](https://blessinvarkey.github.io/theatre/lecture8) |  [Lecture 8](https://blessinvarkey.github.io/theatre/lecture8) | [Lecture 9](https://blessinvarkey.github.io/theatre/lecture9) |
 
 ## #9. Performance
 **Part of GE: Theatre**
