@@ -1,7 +1,7 @@
 [Home](https://blessinvarkey.github.io/theatre/) | [Lecture 1](https://blessinvarkey.github.io/theatre/lecture1) | [Lecture 2](https://blessinvarkey.github.io/theatre/lecture2) | [Lecture 3](https://blessinvarkey.github.io/theatre/lecture3) | [Lecture 4](https://blessinvarkey.github.io/theatre/lecture4) |  [Lecture 5](https://blessinvarkey.github.io/theatre/lecture5) | [Lecture 6](https://blessinvarkey.github.io/theatre/lecture6) | [Lecture 7](https://blessinvarkey.github.io/theatre/lecture7) | [Lecture 8](https://blessinvarkey.github.io/theatre/lecture8) | [Lecture 9](https://blessinvarkey.github.io/theatre/lecture9) 
 
-## #2. Theatre & Performance
-**Part of GE: Theatre (Performance, AI & Design)**
+## #2. GE: Theatre (Performance, AI & Design)
+
 >"The story is the hero" - Focus on delivering a well-constructed story than on individual characters/looking better than the other
 
 - Exercises
