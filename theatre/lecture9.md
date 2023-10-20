@@ -55,7 +55,7 @@
 **Actors:**  Shadia & Amol
 
 ## One Voice (3 minutes)
-- Refer back to the techniques in **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!**
+- Refer back to the techniques in **[lecture two](https://blessinvarkey.github.io/theatre/lecture2)!**
 - Three performers speak as if they're one person.
 - Listen intently to blend your voice seamlessly with others.
 - Aim for clear communication and unity.
