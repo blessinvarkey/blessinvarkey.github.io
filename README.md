@@ -14,18 +14,18 @@ Blessin is the founder of The Impro Company, and the former Artistic Director (I
 - Member since July 2018, Association of Computing Machinery 
 
 ## Media & Related Links
-- [Work with Improvisational theatre | The Hindu](https://www.thehindu.com/entertainment/theatre/wing-it-on-stage/article28546498.ece)
-- [Digitizing Tamana | Forbes India | Quote](https://www.forbesindia.com/article/forbes-lifes/covid19-special-children-face-a-challenged-world/60509/1)
-- [Profile Feature | IEEE Spectrum](https://spectrum.ieee.org/at-work/tech-careers/an-engineer-explains-how-to-forge-a-career-designing-for-disabilities)
-- [AI+Art | LiveMint | ClimateProv](https://lifestyle.livemint.com/news/big-story/bengaluru-india-culture-capital-map-bic-unboxing-blr-111688722220002.html)
-- [AI+Art | ClimateProv at the Lalaland festival](https://www.instagram.com/p/CvJ35QXOqmN/)
-- [AI+Art | ClimateProv | British Council | Twitter](https://twitter.com/inBritish/status/1639129694481297411)
-- [AI+Art | Cultural Heritage x Blockchain | Chain Unchained Project](https://www.goethe.de/ins/in/en/kul/fmd/acu.html)
-- [Tech for Good | NASSCOM Highlights 2015 - NSIF | YouTube](https://twitter.com/blessinvarkey/status/578944553475923968)
-- [Tech for Good | Microsoft and Learn "Coding" 4 Minutes Lightning | Kompas.com (Singapore)](https://tekno.kompas.com/read/2016/07/01/15070697/microsoft.dan.belajar.coding.kilat.4.menit?page=all)
-- [Tech for Good | NASSCOM Foundation announces the winners of nasscom social innovation forum 2015 | IndiaCSR](https://indiacsr.in/nasscom-foundation-announces-the-winners-of-nasscom-social-innovation-forum-2015/)
-- [Tech for Good | MSFT | Hour of Code for students with disabilities](https://www.microsoft.com/en-in/about/accessibility-peoplewithdisabilities-coding.aspx)
-- [Tech for Good | Tamana student - Global IT Challenge](https://twitter.com/blessinvarkey/status/915520113570222080)  
+- [Work with Improvisational theatre - The Hindu](https://www.thehindu.com/entertainment/theatre/wing-it-on-stage/article28546498.ece)
+- [Digitizing Tamana - Forbes India | Quote](https://www.forbesindia.com/article/forbes-lifes/covid19-special-children-face-a-challenged-world/60509/1)
+- [Profile Feature - IEEE Spectrum](https://spectrum.ieee.org/at-work/tech-careers/an-engineer-explains-how-to-forge-a-career-designing-for-disabilities)
+- [AI+Art : LiveMint - ClimateProv](https://lifestyle.livemint.com/news/big-story/bengaluru-india-culture-capital-map-bic-unboxing-blr-111688722220002.html)
+- [AI+Art : ClimateProv at the Lalaland festival](https://www.instagram.com/p/CvJ35QXOqmN/)
+- [AI+Art : ClimateProv :  British Council - Twitter](https://twitter.com/inBritish/status/1639129694481297411)
+- [AI+Art : Cultural Heritage x Blockchain - Chain Unchained Project](https://www.goethe.de/ins/in/en/kul/fmd/acu.html)
+- [Tech for Good : NASSCOM Highlights 2015 - NSIF | YouTube](https://twitter.com/blessinvarkey/status/578944553475923968)
+- [Tech for Good : Microsoft and Learn "Coding" 4 Minutes Lightning - Kompas.com (Singapore)](https://tekno.kompas.com/read/2016/07/01/15070697/microsoft.dan.belajar.coding.kilat.4.menit?page=all)
+- [Tech for Good : NASSCOM Foundation announces the winners of nasscom social innovation forum 2015 - IndiaCSR](https://indiacsr.in/nasscom-foundation-announces-the-winners-of-nasscom-social-innovation-forum-2015/)
+- [Tech for Good : MSFT :  Hour of Code for students with disabilities](https://www.microsoft.com/en-in/about/accessibility-peoplewithdisabilities-coding.aspx)
+- [Tech for Good : Tamana student - Global IT Challenge](https://twitter.com/blessinvarkey/status/915520113570222080)  
 
 
 ## Latest Blogs: 
