@@ -23,7 +23,7 @@
 - Even though the situations are exaggerated, there's a universal theme of the quest for love and the awkwardness of first dates. Make your character relatable. The audience should see a bit of themselves (or someone they know) in each character, which will make the comedy more effective.
 - This is a fast-paced play. Keep the energy high throughout, especially during the more outrageous moments.
 - Even if you're not the one delivering the punchline, your** reactions are essential**. Comedy often comes from how others respond to the situation.
-**- REHERSE YOUR LINES AT ANY COST BEFORE OUR NEXT CLASS!**
+**- REHERSE YOUR LINES AT ANY COST BEFORE OUR NEXT CLASS!**   
 **Actors:** 
 - Scene 1: Aanchal, Amol (Modified script)
 - Scene 2: Palak, Anuj (Modified script)
