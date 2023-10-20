@@ -1,7 +1,6 @@
 # Blessin Varkey
 
-Blessin Varkey leads an engineering team for Generative AI and ML/DL applications for enterprises via rapid prototyping at Tata Consultancy Services. Additionally, he is a visiting faculty at NIFT Delhi, where he instructs the elective “Theatre: Performance, AI & Design.” As a BeFantastic Fellow in 2023, Blessin, along with a team, showcased the first improvised AI performance, centred on Climate Change at the Future Fantastic Festival, Bangalore, and the LaLaLand festival in the Netherlands. Blessin has a B.Tech in Computer Science & Engineering and a postgraduate degree in Artificial Intelligence.
-
+Blessin Varkey is a thought leader in engineering, specializing in Generative AI and ML/DL for enterprises through rapid prototyping. With expertise as a Technical Lead and mentor for over two dozen POCs and projects, his focus on Design Thinking at TCS (Corp.) Rapid Labs & Corp. Incubation has yielded various innovative solutions in AI. In addition to his technical prowess, Blessin's research in Human-Computer Interaction (HCI) spans over 8 years and has resulted in more than 15 ACM and IEEE publications, with a profile feature in IEEE Spectrum. As a social innovator recognized by NASSCOM and a fellow in global programs like BeFantastic Fellowship and Indo Pacific Venture, he leverages technology for positive social change and frequently shares his expertise through coaching, facilitation, and speaking engagements at international conferences.
 
 **Artist Profile**   
 
