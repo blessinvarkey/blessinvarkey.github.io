@@ -2,14 +2,27 @@
 
 ## #7. GE: Theatre (Performance, AI & Design)
 
-## Haan, aur (3 minutes)
+## Performance Flow 
+- Haan, aur (3 minutes)
+- Scripted Play (25 minutes)
+- Status (3 minutes)
+- One word at a time (3 minutes)
+- One Voice (3 minutes)
+- Up in the air (3 minutes)
+- La Ronde (15 minutes)
+- Vampire game (3 minutes)
+- Monologue (Optional - 3 minutes)
+- Freeze tag (Optional)
+- What are you doing (Optional)
+
+### Haan, aur (3 minutes)
 - Refer to **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!** for details
 - Stay present, listen actively to your partner.
 - Respond positively and add new information to the scene.
 - Avoid blocking or negating your partner's offers.   
 **Actors:** Sumbul, Tamanna, Suraj, Riya, Renee
 
-## Scripted Play (25 mintues)
+### Scripted Play (25 mintues)
 - Review your lines and cues thoroughly.
 - Stay in character and maintain the story's continuity.
 - Interact authentically with your partner.
@@ -37,7 +50,7 @@
 - Scene 12: Aishwarya & (Modified script)
 - **Anyone else interested in scripted play, reach out at the earlist**
 
-## Status (3 minutes)
+### Status (3 minutes)
 - Refer to **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!** for details
 - Remember the principles from lecture eight.
 - Engage in visible status transactions.
@@ -45,14 +58,14 @@
 - Use body language, voice, and dialogue to convey status.
 **Actors:** Shivali & Jhalak
 
-## One word at a time (3 minutes)
+### One word at a time (3 minutes)
 - Refer back to the techniques in **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!**
 - Listen keenly to your partner.
 - Build the story logically, contributing just one word each turn.
 - Stay collaborative and avoid overthinking.
 **Actors:**  Shadia & Amol
 
-## One Voice (3 minutes)
+### One Voice (3 minutes)
 - Refer back to the techniques in **[lecture two](https://blessinvarkey.github.io/theatre/lecture2)!**
 - Three performers speak as if they're one person.
 - Listen intently to blend your voice seamlessly with others.
@@ -60,7 +73,7 @@
 - We will have 3 experts/professors for the show. 
 **Actors:** Arrish, Aviral, Deepak | Anahita, Khushi, Ruhani | Gulshan, Raunak, Krishna
 
-## Up in the air (3 minutes)
+### Up in the air (3 minutes)
 How to play: To be addressed in the next class
 **Actors:** Kunal & Liza
 
@@ -76,15 +89,15 @@ How to play: To be addressed in the next class
 - Krishna & Suhani
 - Suhani & Rohit
 
-## Vampire game (3 minutes)
+### Vampire game (3 minutes)
 - Refer to **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!** for details
 - Harshit & Liza
 
-## Monologue (Optional - 3 minutes)
+### Monologue (Optional - 3 minutes)
 - "To be, or not to be" soliloquy [Anyone interested in attempting a monologue, please let me know]
 
-## Freeze tag (Optional - **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!**)
-## What are you doing (Optional - **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!**)
+### Freeze tag (Optional - **[lecture eight](https://blessinvarkey.github.io/theatre/lecture8)!**)
+### What are you doing (Optional - **[lecture one](https://blessinvarkey.github.io/theatre/lecture1)!**)
 
 # Assignment 2
 - Assignment 2 marking for the Check Please! performers will be submitting the modified script.
