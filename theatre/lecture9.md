@@ -7,7 +7,7 @@
 - [Scripted Play (25 minutes)](https://blessinvarkey.github.io/theatre/lecture9#haan-aur-3-minutes): Aanchal, Amol, Palak, Anuj, Renee, Aviral, Sumbul, Deepak, Jhalak, Riya, Suraj, Tamanna, Kushi, Raunak, Rohit, Anahita, Shadia, Shivali, Harshit, Bhavishya, Paarth, Aishwarya & Aviral. 
 - [Status (3 minutes)](https://blessinvarkey.github.io/theatre/lecture9#status-3-minutes): Shivali & Jhalak
 - [One word at a time (3 minutes)](https://blessinvarkey.github.io/theatre/lecture9#one-word-at-a-time-3-minutes): Shadia & Amol
-- [One Voice (3 minutes)](https://blessinvarkey.github.io/theatre/lecture9#one-voice-3-minutes): Arrish, Aviral, Deepak | Anahita, Khushi, Ruhani | Gulshan, Raunak, Krishna
+- [One Voice (3 minutes)](https://blessinvarkey.github.io/theatre/lecture9#one-voice-3-minutes): Arrish, Aviral, Deepak; Anahita, Khushi, Ruhani; Gulshan, Raunak, Krishna
 - [Up in the air (3 minutes)](https://blessinvarkey.github.io/theatre/lecture9#up-in-the-air-3-minutes): Kunal & Liza
 - [La Ronde (15 minutes)](https://blessinvarkey.github.io/theatre/lecture9#la-ronde-15-minutes): Rohit & Pranjal, Pranjal & Kashvi, Kashvi & Krishna, Krishna & Suhani, Suhani & Rohit
 - [Vampire game (3 minutes)](https://blessinvarkey.github.io/theatre/lecture9#vampire-game-3-minutes): Harshit & Liza
