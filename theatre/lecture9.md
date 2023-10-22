@@ -40,14 +40,14 @@
 - Scene 2: Palak, Anuj (Modified script)
 - Scene 3: Renee, Aviral (Modified script)
 - Scene 4: Sumbul, Deepak (Modified script)
-- Scene 5: Jhalak & Riya (AI x human generated)
+- Scene 5: Jhalak & Riya (AI x human generated script)
 - Scene 6: Suraj & Tamanna (Modified script)
 - Scene 7: Kushi & Raunak (Modified script)
 - Scene 8: Rohit & Anahita (AS-IS from the script - might need a wig & a walker)
-- Scene 9: _Kunal & Shadia_ [TBD]
+- Scene 9: Shadia (AI x human generated script)
 - Scene 10: Shivali & Harshit (Modified script)
 - Scene 11: Bhavishya & Paarth (Modified script)
-- Scene 12: Aishwarya & (Modified script)
+- Scene 12: Aishwarya & Aviral (Modified script)
 - **Anyone else interested in scripted play, reach out at the earlist**
 
 ### Status (3 minutes)
@@ -101,4 +101,4 @@ How to play: To be addressed in the next class
 
 # Assignment 2
 - Assignment 2 marking for the Check Please! performers will be submitting the modified script.
-- For the rest of you, assignment is to create a backdrop generated using dalle, midjourney (or any other AI tool) of various locations. The location could be a park, a restaraunt wallpaper, a movie theatre, a bus stand etc. Before submitting, discuss in the next class. 
+- For the rest of you, the assignment is to create a backdrop generated using dalle, midjourney (or any other AI tool) of various locations. The location could be a park, a restaraunt wallpaper, a movie theatre, a bus stand etc. Before submitting, discuss in the next class. 
