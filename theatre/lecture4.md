@@ -9,17 +9,19 @@
 - Acting should be a truthful representation of human behavior under imaginary circumstances.
 - Concentrate on what you are doing in the moment on stagea, rather than getting lost in their thoughts or emotions
 - Emphasise on actions rather than thoughts
-  
-
-
-# Image Theatre 
-Image Theatre is one of the many techniques developed by Augusto Boal as part of his Theatre of the Oppressed (TO) methodology. Image Theatre is a non-verbal approach that uses human bodies to create static images to express ideas, feelings, and situations. 
 
 ## Generative AI
 
 LLMs, or Large Language Models are artificial intelligence programs designed to understand and generate text based on human language. The ones we will use for the course are ChatGPT & Bard. Try them out. 
 - [http://chat.openai.com](http://chat.openai.com)
 - [http://bard.google.com](http://bard.google.com)
+  
+# Spoon River Anthology
+- To be discussed in class. Research for the selected poems to be done using a LLM. 
+
+# Image Theatre 
+Image Theatre is one of the many techniques developed by Augusto Boal as part of his Theatre of the Oppressed (TO) methodology. Image Theatre is a non-verbal approach that uses human bodies to create static images to express ideas, feelings, and situations. 
+
 
 ## Character Analysis
 
