@@ -5,6 +5,13 @@
 
 **Revise [lecture three](https://blessinvarkey.github.io/theatre/lecture3)!**
 
+# Actions vs thoughts 
+- Acting should be a truthful representation of human behavior under imaginary circumstances.
+- Concentrate on what you are doing in the moment on stagea, rather than getting lost in their thoughts or emotions
+- Emphasise on actions rather than thoughts
+  
+
+
 # Image Theatre 
 Image Theatre is one of the many techniques developed by Augusto Boal as part of his Theatre of the Oppressed (TO) methodology. Image Theatre is a non-verbal approach that uses human bodies to create static images to express ideas, feelings, and situations. 
 
