@@ -17,7 +17,7 @@ LLMs, or Large Language Models are artificial intelligence programs designed to 
 - [http://bard.google.com](http://bard.google.com)
   
 # Spoon River Anthology
-- To be discussed in class. Research for the selected poems to be done using a LLM. 
+- To be discussed in class. 
 
 # Image Theatre 
 Image Theatre is one of the many techniques developed by Augusto Boal as part of his Theatre of the Oppressed (TO) methodology. Image Theatre is a non-verbal approach that uses human bodies to create static images to express ideas, feelings, and situations. 
@@ -39,7 +39,6 @@ Image Theatre is one of the many techniques developed by Augusto Boal as part of
 
 
 ## Prompt Tips
-Use the write-up you created, modify one of the prompts below:   
 - "Write a scene for a modern-day play set in a coffee shop where two old friends unexpectedly meet."
 - "Write a comedic dialogue..." or "Craft a suspenseful monologue about..."
 - Instead of asking everything in one go, break your prompt into smaller parts. For example, you could first ask for a character description, then for a setting, and finally for a scene involving that character in that setting.
@@ -50,12 +49,6 @@ Use the write-up you created, modify one of the prompts below:
 - "That's a good start. Can you develop it further with more emotion?"
 - "How would you approach writing a scene about X, and what are the key elements you'd consider?"
 
-## Assignment 1 (30 Marks): Create a one-act play/ novella using one of the LLMs. 
-- Integrate your character's analysis with the list of LLMs provided. This assignment has to be completed by the end of the 4th week/before the next class.
-- Create a character analysis of a character based on the questions above.
-- Set the script in an Indian context.
-- Modify the generated script, and add your inputs. (you could translate it to Hindi, change dialogues)
-- Share a PDF file which should have the script generated, what you contributed (including your original character analysis, and modifications you made)
-
+## Assignment 1 (30 Marks): Write a one-act play based on instructions provided in class.
 
 
